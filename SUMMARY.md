@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [I'M "THAT I.T. FRIEND"!](README.md)
