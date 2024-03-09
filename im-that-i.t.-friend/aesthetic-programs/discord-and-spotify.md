@@ -1,5 +1,5 @@
 ---
-description: How to make yourDiscord and Spotify look aesthetic.
+description: How to make your Discord and Spotify look aesthetic.
 ---
 
 # Discord & Spotify
