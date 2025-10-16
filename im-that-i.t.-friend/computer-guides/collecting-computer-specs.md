@@ -17,25 +17,25 @@ This is probably the easiest way to get your PC specs. Just the most difficult p
 * Go to this link: [https://www.ccleaner.com/speccy](https://www.ccleaner.com/speccy)
 * Click "Download Free Version"
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * It will scroll you down to another page where you can click on the left most option which says "Free Download"
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * You will be brought to another page that has more download options. Again, just click the "Download" button under "Free Speccy" column.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Once you hit "Download" give it a second and it will download!
 * Launch the ".exe" file that was downloaded. You may be prompted with a yes or no option to run it on your system, hit "yes.
 * This window should appear after you launch the ".exe".
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Now all you gotta do is hit "Install" and then it will bring you to this window where you can just hit "Run Speccy".
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Feel free to uncheck the "view release notes", if you are reading this guide you more than likely do not care about those.
 * Give it a second and it will collect all your system specs for you!
@@ -53,7 +53,7 @@ Now you got your system specs one way that you can share to your IT friend. If t
 *   Now, click on "Performance". It will look like this\
 
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 * The main things you want here are: CPU, Memory, and GPU.
   * You will see the main name of the device on the top right, then the more detailed info at the bottom.
 

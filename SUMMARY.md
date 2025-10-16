@@ -5,3 +5,6 @@
     * [Discord & Spotify](im-that-i.t.-friend/aesthetic-programs/discord-and-spotify.md)
   * [📖 Computer Guides](im-that-i.t.-friend/computer-guides/README.md)
     * [Collecting Computer Specs](im-that-i.t.-friend/computer-guides/collecting-computer-specs.md)
+  * [🎮 Games](im-that-i.t.-friend/games/README.md)
+    * [🌠 Blue Protocol Star Resonance](im-that-i.t.-friend/games/blue-protocol-star-resonance/README.md)
+      * [🎣 Fishing Script](im-that-i.t.-friend/games/blue-protocol-star-resonance/fishing-script.md)
