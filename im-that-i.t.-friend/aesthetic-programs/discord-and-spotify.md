@@ -33,7 +33,7 @@ Alright lets get started on setting up Discord to make it look good.&#x20;
     &#x20; ![](<../../.gitbook/assets/image (9).png>)
 4. Open "VencordInstaller.exe" and just click the green "Install" button. It will go ahead and install then you can launch Discord.
 
-( If the above is confusing here is a video guide: [https://www.youtube.com/watch?v=z1su9KBkT\_s](https://www.youtube.com/watch?v=z1su9KBkT\_s))\
+( If the above is confusing here is a video guide: [https://www.youtube.com/watch?v=z1su9KBkT\_s](https://www.youtube.com/watch?v=z1su9KBkT_s))\
 &#x20;
 
 5. Now that Vencord is installed, you can go ahead and open the settings in Discord and scroll down and you will see a section labelled "Vencord".&#x20;
@@ -70,8 +70,7 @@ Alright now we will go ahead and get your Spotify looking nice! This is going to
 1.  Go to [https://spicetify.app/](https://spicetify.app/) and click "Install Now". This will redirect you to an install page.
 
     &#x20;\- From here it will look like a lot, in reality you don't have to do much.
-2.  Hit your `⊞ Win` key and type in "Terminal" and it should say "Windows PowerShell" in the tab like this:\
-
+2.  Hit your `⊞ Win` key and type in "Terminal" and it should say "Windows PowerShell" in the tab like this:<br>
 
     <figure><img src="../../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
 3.  From here, you are just going to paste in the following:\

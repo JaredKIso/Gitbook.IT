@@ -50,8 +50,7 @@ Now you got your system specs one way that you can share to your IT friend. If t
 * You can open your task manager by hitting the `⊞ Win` key and typing "Task Manager", or by right clicking your task bar and clicking "Task Manager".
 * From here it may look different depending on if you are on Windows 11 or Windows 10.
 * You'll see icons on the left side, if you click the hamburger menu (the ≡) you can make it show the names for windows 11. For windows 10, it will just be listed at the top.
-*   Now, click on "Performance". It will look like this\
-
+*   Now, click on "Performance". It will look like this<br>
 
     <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 * The main things you want here are: CPU, Memory, and GPU.

@@ -34,12 +34,10 @@ After installing Python globally, you’ll need to install the pynput module dir
 * This is where some people can get confused. The above just gives and example of the path. But they do not explain how the path gets there.
 * **Steps to make that directory and continue with the guide:**
   * Download the latest version: [https://github.com/Sanheiii/ok-star-resonance/releases](https://github.com/Sanheiii/ok-star-resonance/releases) (As of 10/15/2025 that is '_v0.0.17_') That latest version will in most instances be at the top.&#x20;
-  *   Under that release you will see a table labeled "Assets" which will have the files you want. In this case you want "ok-star-resonance-win32-Global-setup.exe".\
-
+  *   Under that release you will see a table labeled "Assets" which will have the files you want. In this case you want "ok-star-resonance-win32-Global-setup.exe".<br>
 
       <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-  *   Once installed you will want to run that .exe. Just follow the prompts during the install. You can uncheck the box at the end so it does not launch it when you hit "Finish"\
-
+  *   Once installed you will want to run that .exe. Just follow the prompts during the install. You can uncheck the box at the end so it does not launch it when you hit "Finish"<br>
 
       <figure><img src="../../../.gitbook/assets/result.gif" alt=""><figcaption></figcaption></figure>
   * From there you will see that directory in the example earlier has been made at `C:\Users\USER\AppData\Local\ok-star-resonance`&#x20;
@@ -60,8 +58,7 @@ pip install pynput --target="."
   * Go  to the directory mentioned in my previous note (The one where "ok-star-resonance" installed to). _C:\Users\USER\AppData\Local\ok-star-resonance_
     * Easiest way to get there is hit your windows key on your keyboard + R and type '_%localappdata%_' and you will see the **'ok-star-resonance**' folder in there.
   * Once in the directory click in the bar to the left of the search bar where it shows the folder(s) you are in and type cmd then hit enter on your keyboard. This will automatically open the CMD in the '**ok-star-resonance**' folder.
-  *   Once you are in the CMD terminal that popped up, just paste in: `pip install pynput --target="."` then hit enter on your keyboard.\
-
+  *   Once you are in the CMD terminal that popped up, just paste in: `pip install pynput --target="."` then hit enter on your keyboard.<br>
 
       <figure><img src="../../../.gitbook/assets/result (1).gif" alt=""><figcaption></figcaption></figure>
 * If your output in the CMD window was the same as mine you should be good with the install now and can continue following the original guide.
