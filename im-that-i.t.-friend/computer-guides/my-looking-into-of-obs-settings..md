@@ -4,11 +4,15 @@ description: >-
   overtime as I test and experience more.
 ---
 
-# My looking into of OBS Settings.
+# My looking into of OBS Settings
 
 **OBS**
 
-This is mainly for **recording** and not for live streaming, please keep that in mind :) \[ ] **Recording Formats**: \[ ] There are quite a few but I am just going to go through the most used ones. =-=
+This is mainly for **recording** and not for live streaming, please keep that in mind :) \
+\
+\[ ] **Recording Formats**: \[ ] \
+There are quite a few but I am just going to go through the most used ones. \
+\=-=
 
 * **Matroska Video (.mkv)**
   * This is quite often used for recording to prevent corrupted recordings in case your system crashes or anything like that.
@@ -42,7 +46,10 @@ This is mainly for **recording** and not for live streaming, please keep that in
   * From my system specs, it does not look like this limits Video or Audio encoding formats.
   * MKV may need to be remuxed only if you're not editing in Davinci Resolve, which recognizes MKV as an editable format. (Thank you Deef for this info)
 
-\[ ] **Video Encoders**: \[ ] I won't go into all of them, mainly just what looks like to be the most used ones. =-=
+\[ ] **Video Encoders**: \[ ] \
+I won't go into all of them, mainly just what looks like to be the most used ones. \
+\
+\=-=
 
 * **Quickly there are some things to clear up.**
   * AMD HW = AMD Hardware based encoding.
@@ -100,7 +107,10 @@ This is mainly for **recording** and not for live streaming, please keep that in
       * Good explanation here @ 1:43 ([OBS 29.1 - Lossless Audio - YouTube](https://www.youtube.com/watch?v=c44-UIRCQ08))
   * I am personally using **FFmpeg PCM (24-bit float)**.
 
-\[ ] **Rate Control**: \[ ] I have only looked into two of the options personally especially since I am only using. =-=
+\[ ] **Rate Control**: \[ ]\
+I have only looked into two of the options personally especially since I am only using. \
+\
+\=-=
 
 * **Constant Bitrate**
   * A way to make sure the recording is _always_ hitting a certain bitrate.
@@ -115,7 +125,7 @@ This is mainly for **recording** and not for live streaming, please keep that in
   * For streaming use Constant Bitrate
     * I am not going to give the best settings as a lot of this is personal preference.
     * But a good starting point at least for QP is 17 or 18 for really high quality. I could not find the graph, but 18 is where it starts to drop quality more. Just test around as I know some people do 22.
-  * Watch for file size, and quality. Do what works best for what you like :
+  * Watch for file size, and quality. Do what works best for what you like :<br>
 
 \=-=-=-= I am going to be going pretty quick for the next settings due to the nature of them as well as it can get quite complex. =-=-=-=
 
